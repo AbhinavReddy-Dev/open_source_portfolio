@@ -11,3 +11,4 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 - Added Material UI to React, pull request [#56](https://github.com/ChicoState/PantryNode/pull/56).
 
 ### Sprint 2 (03/12/2023 - 03/25/2023)
+- Testing setup, Pull request review [#59](https://github.com/ChicoState/PantryNode/pull/59#pullrequestreview-1338625018)
