@@ -12,3 +12,4 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 
 ### Sprint 2 (03/12/2023 - 03/25/2023)
 - Testing setup, Pull request review [#59](https://github.com/ChicoState/PantryNode/pull/59#pullrequestreview-1338625018)
+- Migrate to PostgreSQL, Pull request review [#57](https://github.com/ChicoState/PantryNode/pull/57)
