@@ -17,3 +17,4 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 
 ### Sprint 3 (03/26/2023 - 04/08/2023)
 - Smoke testing setup, Pull request review [#75](https://github.com/ChicoState/PantryNode/pull/75)
+- Login/Signup pages, Pull request review [#84](https://github.com/ChicoState/PantryNode/pull/84)
