@@ -23,3 +23,6 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 
 ### Sprint 4 (04/09/2023 - 04/22/2023)
 - Donor page modifications, PR review [#115](https://github.com/ChicoState/PantryNode/pull/115)
+- Linter, package-lock conflicts, PR review [#103](https://github.com/ChicoState/PantryNode/pull/103)
+- Registration page, PR review [#124](https://github.com/ChicoState/PantryNode/pull/124)
+- Periodic merge, PR review [#125](https://github.com/ChicoState/PantryNode/pull/125)
