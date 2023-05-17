@@ -3,6 +3,14 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 
 ## PantryNode
 
+### Highlights
+Successfully merged PRs for Routing, Linter, and pair programmed Linter configuration for frontend and CI/CD.
+Also, encouraged and helped numerous PRs to get successfully merged through code reviews and open sessions for issues.
+
+- Routing, Layout, and Navigation for UI, PR merge [#79](https://github.com/ChicoState/PantryNode/pull/79)
+- Periodic merge, PR review [#125](https://github.com/ChicoState/PantryNode/pull/125)
+- Frontend linter, PR [#134](https://github.com/ChicoState/PantryNode/pull/134) 
+
 ### Sprint 1 (02/28/2023 - 03/20/2023)
 - Docker container, PR review [#28](https://github.com/ChicoState/PantryNode/pull/28)
 - React folder, PR review [#36](https://github.com/ChicoState/PantryNode/pull/36)
